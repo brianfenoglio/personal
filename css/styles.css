@@ -1,0 +1,28 @@
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+.top {
+  background-color: #c4dfaa;
+}
+.cloud-bottom {
+  position: absolute;
+}
+.cloud-top {
+  margin-top: 10px;
+  position: relative;
+  left: 200px;
+}
+h1 {
+  font-family: "Kaushan Script", cursive;
+  margin: 5px 0 0;
+}
+p {
+  margin: 7px 0 0;
+}
+h2 {
+  font-family: "Roboto Serif", serif;
+}
+h3 {
+  font-family: "Roboto Serif", serif;
+}
